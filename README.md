@@ -1,7 +1,7 @@
-# 💫 About Me:
-Cess
-Junior Software Engineer | Web Developer
-abenojaprincesscain@gmail.com
+# 💫 
+Cess<br>
+Junior Software Engineer | Web Developer<br>
+abenojaprincesscain@gmail.com<br>
 Thinking...<br>
 
 
