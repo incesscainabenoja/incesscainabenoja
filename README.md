@@ -1,8 +1,8 @@
 # 💫 
 Cess<br>
-Junior Software Engineer | Web Developer<br>
+Junior Software Engineer | Web Developer | Product Dev<br>
 abenojaprincesscain@gmail.com<br>
-Thinking...<br>
+Thinking...<br> 
 
 
 ## 🌐 Socials:
