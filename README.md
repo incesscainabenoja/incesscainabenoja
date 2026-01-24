@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Multiple Projects**
+- 🔭 I’m currently working on Accenture
 
-- 🌱 I’m currently learning **Frameworks and Designs**
+- 🌱 I’m currently learning multiple language
 
-- 👯 I’m looking to collaborate on **Tech Companies**
+- 👯 I’m looking to collaborate on Web3 
 
 - 📫 How to reach me **abenojaprincesscain@gmail.com**
 
